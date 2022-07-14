@@ -1,7 +1,7 @@
 
-# React Native Getir App Bottom Bar
+# React Native Cool Transition
 
-![Uygulama Ekran Görüntüsü](https://github.com/furkanuzundev/cool-transition/blob/master/src/assets/video/record.mov)
+![Uygulama Ekran Görüntüsü](https://github.com/furkanuzundev/cool-transition/blob/master/src/assets/video/record.webp)
 
 
 I made this project for fun in my animation adventure with react-native!
@@ -12,10 +12,10 @@ I made this project for fun in my animation adventure with react-native!
 ## What did i use?
 
 
-- Expo (44.0)
+- Expo (45.0)
 - TypeScript
 - [React native reanimated](https://docs.swmansion.com/react-native-reanimated/)
-- [Redas](https://wcandillon.gitbook.io/redash/)
+- [Redash](https://wcandillon.gitbook.io/redash/)
 
 
 ## Try it!
